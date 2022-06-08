@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Aimee. I have a degree in psychology and a background in formal science, but I'm currently working on a Google Data Analytics Certificate and transitioning toward a career in data science.
 
 <!--
 **aklaschus/aklaschus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
